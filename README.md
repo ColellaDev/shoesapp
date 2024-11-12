@@ -1,38 +1,19 @@
-<p align="center">
-  <img alt="Rocketseat Education" src="https://avatars.githubusercontent.com/u/69590972?s=200&v=4" width="100px" />
-</p>
+# Loja Push Notifitênis
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Rocketseat&message=Education&color=8257e5&labelColor=202024" alt="Rocketseat Project" />
-  <a href="LICENSE"><img  src="https://img.shields.io/static/v1?label=License&message=MIT&color=8257e5&labelColor=202024" alt="License"></a>
-</p>
+A Loja Push Notifitênis foi desenvolvida com foco no aprendizado de Push Notifications e Deep Linking usando OneSignal e Firebase. Além das funções básicas de adicionar e remover itens do carrinho, o app explora a interação com notificações para engajar o usuário de forma prática e dinâmica.
 
+## Tecnologias Utilizadas
+- React Native
+- TypeScript
+- OneSignal
 
-## 💻 Projeto
+## Preview
+<img src="https://github.com/user-attachments/assets/5ce16228-ba48-4164-a08e-5f4baa1cf42b"  width="270"/>
+<img src="https://github.com/user-attachments/assets/5cbd0d8f-8796-41d1-8fd2-e8cc609e33f3"  width="270"/>
+<img src="https://github.com/user-attachments/assets/5ccb0276-b500-44c3-bc55-efa7e9d8c5e9"  width="270"/>
+<img src="https://github.com/user-attachments/assets/30b59c3c-699c-423a-bed8-04da2b23be18"  width="270"/>
+<img src="https://github.com/user-attachments/assets/5cb0e417-9d5c-4699-8d5a-70c6e8734ffa" width="270"/>
+<img src="https://github.com/user-attachments/assets/f8b9805c-c474-44c9-b34f-d961a9b3de03" width="270"/>
 
-igniteshoesapp
-
-## 📝 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-<p align="center">
-  Feito com 💜 by Rocketseat
-</p>
-
-
-<!--START_SECTION:footer-->
-
-<br />
-<br />
-
-<p align="center">
-  <a href="https://discord.gg/rocketseat" target="_blank">
-    <img align="center" src="https://storage.googleapis.com/golden-wind/comunidade/rodape.svg" alt="banner"/>
-  </a>
-</p>
-
-<!--END_SECTION:footer-->
-
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-colella-esteves-952a3866/)
